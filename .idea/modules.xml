@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 - Defining and Using Classes/1 - Defining and Using Classes.iml" filepath="$PROJECT_DIR$/1 - Defining and Using Classes/1 - Defining and Using Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 - IntLists, SLists and DLists/2 - IntLists, SLists and DLists.iml" filepath="$PROJECT_DIR$/2 - IntLists, SLists and DLists/2 - IntLists, SLists and DLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS61B.iml" filepath="$PROJECT_DIR$/CS61B.iml" />
+    </modules>
+  </component>
+</project>
