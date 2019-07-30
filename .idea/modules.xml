@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Analysis of Algorithms/Analysis of Algorithms.iml" filepath="$PROJECT_DIR$/Analysis of Algorithms/Analysis of Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Data Structures and Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data Structures and Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elementary Sorts/Elementary Sorts.iml" filepath="$PROJECT_DIR$/Elementary Sorts/Elementary Sorts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge Sort/Merge Sort.iml" filepath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stacks and Queues/Stacks and Queues.iml" filepath="$PROJECT_DIR$/Stacks and Queues/Stacks and Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/Union Find/Union Find.iml" filepath="$PROJECT_DIR$/Union Find/Union Find.iml" />
     </modules>
