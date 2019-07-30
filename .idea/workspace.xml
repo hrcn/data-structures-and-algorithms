@@ -4,9 +4,7 @@
     <list default="true" id="d23cca7a-f3e3-44c6-a898-47728031e70b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture Slides/1 - UnionFind.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture Slides/2 - Analysis Of Algorithms.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture Slides/3 - Stacks And Queues.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,47 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Insertion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2850">
-              <caret line="114" selection-start-line="114" selection-end-line="114" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4127#4128#0" expanded="true" />
-                <element signature="e#4168#4169#0" expanded="true" />
-                <element signature="e#4264#4265#0" expanded="true" />
-                <element signature="e#4315#4316#0" expanded="true" />
-                <element signature="e#4933#4934#0" expanded="true" />
-                <element signature="e#4980#4981#0" expanded="true" />
-                <element signature="e#5281#5282#0" expanded="true" />
-                <element signature="e#5340#5341#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Shell.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/fixedCapacityStackOfStrings.java">
+        <entry file="file://$PROJECT_DIR$/Quick Sort/src/Quick.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="349">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#3266#3267#0" expanded="true" />
+                <element signature="e#3317#3318#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,6 +64,8 @@
         <option value="$PROJECT_DIR$/Elementary Sorts/src/Selection.java" />
         <option value="$PROJECT_DIR$/Elementary Sorts/src/Insertion.java" />
         <option value="$PROJECT_DIR$/Elementary Sorts/src/Shell.java" />
+        <option value="$PROJECT_DIR$/Merge Sort/src/Merge.java" />
+        <option value="$PROJECT_DIR$/Quick Sort/src/Quick.java" />
       </list>
     </option>
   </component>
@@ -130,7 +97,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,12 +107,12 @@
             <path>
               <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Elementary Sorts" type="462c0819:PsiDirectoryNode" />
+              <item name="Quick Sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Elementary Sorts" type="462c0819:PsiDirectoryNode" />
+              <item name="Quick Sort" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -157,6 +123,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,7 +163,7 @@
   <component name="ToolWindowManager">
     <frame x="473" y="115" width="1193" height="914" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30538395" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3106796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -360,28 +327,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2850">
+        <state relative-caret-position="2575">
           <caret line="114" selection-start-line="114" selection-end-line="114" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4127#4128#0" expanded="true" />
-            <element signature="e#4168#4169#0" expanded="true" />
-            <element signature="e#4264#4265#0" expanded="true" />
-            <element signature="e#4315#4316#0" expanded="true" />
-            <element signature="e#4933#4934#0" expanded="true" />
-            <element signature="e#4980#4981#0" expanded="true" />
-            <element signature="e#5281#5282#0" expanded="true" />
-            <element signature="e#5340#5341#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Shell.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
+        <state relative-caret-position="1300">
           <caret line="55" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
           </folding>
         </state>
@@ -394,6 +354,31 @@
           <folding>
             <element signature="e#144#145#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge Sort/src/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1852#1853#0" expanded="true" />
+            <element signature="e#1893#1894#0" expanded="true" />
+            <element signature="e#2168#2169#0" expanded="true" />
+            <element signature="e#2219#2220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quick Sort/src/Quick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#3266#3267#0" expanded="true" />
+            <element signature="e#3317#3318#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -448,11 +433,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Analysis of Algorithms</last-edited>
+          <last-edited>Quick Sort</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
