@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Analysis of Algorithms/Analysis of Algorithms.iml" filepath="$PROJECT_DIR$/Analysis of Algorithms/Analysis of Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Trees/Binary Search Trees.iml" filepath="$PROJECT_DIR$/Binary Search Trees/Binary Search Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Data Structures and Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data Structures and Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Elementary Sorts/Elementary Sorts.iml" filepath="$PROJECT_DIR$/Elementary Sorts/Elementary Sorts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Merge Sort/Merge Sort.iml" filepath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" />
