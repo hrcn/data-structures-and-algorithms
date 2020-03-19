@@ -2,21 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d23cca7a-f3e3-44c6-a898-47728031e70b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Data Structures and Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/1 - Intro.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/10 - BinarySearchTrees.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/11 - BalancedSearchTrees.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/12 - GeometricSearch.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/13 - HashTables.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/2 - UnionFind.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/3 - AnalysisOfAlgorithms.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/4 - StacksAndQueues.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/5 - ElementarySorts.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/6 - Mergesort.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/7 - Quicksort.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/8 - PriorityQueues.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART I SLIDES/9 - ElementarySymbolTables.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analysis of Algorithms/Analysis of Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analysis of Algorithms/src/oneSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analysis of Algorithms/src/threeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analysis of Algorithms/src/twoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Banlanced Search Trees/Banlanced Search Trees.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Banlanced Search Trees/src/RedBlackBST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Search Trees/Binary Search Trees.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Search Trees/src/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary Sorts/Elementary Sorts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary Sorts/src/Insertion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary Sorts/src/Selection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary Sorts/src/Shell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hash Tables/Hash Tables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hash Tables/src/LinearProbingHashST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hash Tables/src/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hash Tables/src/SeparateChainingHashST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge Sort/src/Merge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Priority Queues/Priority Queues.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Priority Queues/src/Heap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Priority Queues/src/MaxPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Priority Queues/src/MinPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Priority Queues/src/OrderedArrayMaxPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Priority Queues/src/UnorderedArrayMaxPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quick Sort/Quick Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quick Sort/src/Quick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks and Queues/Stacks and Queues.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks and Queues/src/Bag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks and Queues/src/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks and Queues/src/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks and Queues/src/fixedCapacityStackOfStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks and Queues/src/linkedQueueOfStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks and Queues/src/linkedStackOfStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stacks and Queues/src/resizingArrayStackOfStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Union Find/Union Find.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Union Find/src/quickFind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Union Find/src/quickUnion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Union Find/src/weightedQuickUnion.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,58 +56,36 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hash Tables/src/PhoneNumber.java">
+        <entry file="file://$PROJECT_DIR$/Data Structures/src/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="414">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <element signature="e#2083#2084#0" expanded="true" />
-                <element signature="e#2135#2136#0" expanded="true" />
-                <element signature="e#2817#2830#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hash Tables/src/SeparateChainingHashST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding>
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#1045#1057#0" expanded="true" />
-                <element signature="e#1371#1372#0" expanded="true" />
-                <element signature="e#1427#1428#0" expanded="true" />
-                <element signature="e#1608#1609#0" expanded="true" />
-                <element signature="e#1632#1633#0" expanded="true" />
-                <element signature="e#1836#1837#0" expanded="true" />
-                <element signature="e#1870#1871#0" expanded="true" />
-                <element signature="e#4872#4889#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hash Tables/src/LinearProbingHashST.java">
+        <entry file="file://$PROJECT_DIR$/Data Structures/src/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
+            <state relative-caret-position="437">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
-                <element signature="e#1172#1173#0" expanded="true" />
-                <element signature="e#1206#1207#0" expanded="true" />
-                <element signature="e#1777#1778#0" expanded="true" />
-                <element signature="e#1833#1834#0" expanded="true" />
-                <element signature="e#2028#2040#0" expanded="true" />
-                <element signature="e#6497#6514#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,6 +138,9 @@
         <option value="$PROJECT_DIR$/Hash Tables/src/PhoneNumber.java" />
         <option value="$PROJECT_DIR$/Hash Tables/src/SeparateChainingHashST.java" />
         <option value="$PROJECT_DIR$/Hash Tables/src/LinearProbingHashST.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Data Structures/src/Queue.java" />
+        <option value="$PROJECT_DIR$/Data Structures/src/Stack.java" />
       </list>
     </option>
   </component>
@@ -148,13 +157,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="601" />
-    <option name="y" value="130" />
-    <option name="width" value="1193" />
-    <option name="height" value="914" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="975" />
+    <option name="width" value="952" />
+    <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -162,34 +170,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Hash Tables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data Structures and Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Hash Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data Structures and Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,7 +197,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,10 +225,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="601" y="130" width="1193" height="914" extended-state="0" />
+    <frame x="975" y="0" width="952" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3398058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23878923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -285,338 +283,78 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Union Find/src/quickFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Union Find/src/quickUnion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Union Find/src/weightedQuickUnion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis of Algorithms/src/oneSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis of Algorithms/src/threeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analysis of Algorithms/src/twoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/resizingArrayStackOfStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#106#107#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/linkedQueueOfStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/linkedStackOfStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Union Find/src/quickFind.java" />
+    <entry file="file://$PROJECT_DIR$/Union Find/src/quickUnion.java" />
+    <entry file="file://$PROJECT_DIR$/Union Find/src/weightedQuickUnion.java" />
+    <entry file="file://$PROJECT_DIR$/Analysis of Algorithms/src/oneSum.java" />
+    <entry file="file://$PROJECT_DIR$/Analysis of Algorithms/src/threeSum.java" />
+    <entry file="file://$PROJECT_DIR$/Analysis of Algorithms/src/twoSum.java" />
+    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/resizingArrayStackOfStrings.java" />
+    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/linkedQueueOfStrings.java" />
+    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/linkedStackOfStrings.java" />
     <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/Iterator.java" />
     <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/Iterable.java" />
-    <entry file="jar://D:/Java JDK/lib/src.zip!/java.base/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/Bag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Selection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5586#5587#0" expanded="true" />
-            <element signature="e#5627#5628#0" expanded="true" />
-            <element signature="e#5723#5724#0" expanded="true" />
-            <element signature="e#5774#5775#0" expanded="true" />
-            <element signature="e#6248#6249#0" expanded="true" />
-            <element signature="e#6299#6300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2575">
-          <caret line="114" selection-start-line="114" selection-end-line="114" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Shell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/fixedCapacityStackOfStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Merge Sort/src/Merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1852#1853#0" expanded="true" />
-            <element signature="e#1893#1894#0" expanded="true" />
-            <element signature="e#2168#2169#0" expanded="true" />
-            <element signature="e#2219#2220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Quick Sort/src/Quick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Priority Queues/src/UnorderedArrayMaxPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#1344#1352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Priority Queues/src/OrderedArrayMaxPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-          <folding>
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#1241#1249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Priority Queues/src/MaxPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3950">
-          <caret line="158" selection-start-line="158" selection-end-line="158" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1714#1715#0" expanded="true" />
-            <element signature="e#1737#1738#0" expanded="true" />
-            <element signature="e#2391#2392#0" expanded="true" />
-            <element signature="e#2426#2427#0" expanded="true" />
-            <element signature="e#3115#3116#0" expanded="true" />
-            <element signature="e#3144#3145#0" expanded="true" />
-            <element signature="e#3307#3308#0" expanded="true" />
-            <element signature="e#3331#3332#0" expanded="true" />
-            <element signature="e#6159#6160#0" expanded="true" />
-            <element signature="e#6194#6195#0" expanded="true" />
-            <element signature="e#7044#7045#0" expanded="true" />
-            <element signature="e#7085#7086#0" expanded="true" />
-            <element signature="e#8093#8101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Priority Queues/src/MinPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="156" selection-start-line="156" selection-end-line="156" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1713#1714#0" expanded="true" />
-            <element signature="e#1736#1737#0" expanded="true" />
-            <element signature="e#2390#2391#0" expanded="true" />
-            <element signature="e#2425#2426#0" expanded="true" />
-            <element signature="e#3123#3124#0" expanded="true" />
-            <element signature="e#3152#3153#0" expanded="true" />
-            <element signature="e#3315#3316#0" expanded="true" />
-            <element signature="e#3339#3340#0" expanded="true" />
-            <element signature="e#6177#6178#0" expanded="true" />
-            <element signature="e#6212#6213#0" expanded="true" />
-            <element signature="e#6896#6897#0" expanded="true" />
-            <element signature="e#6937#6938#0" expanded="true" />
-            <element signature="e#7944#7952#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Priority Queues/src/Heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Java JDK/lib/src.zip!/java.base/java/lang/Iterable.java" />
+    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/Stack.java" />
+    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/Queue.java" />
+    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/Bag.java" />
+    <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Selection.java" />
+    <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Insertion.java" />
+    <entry file="file://$PROJECT_DIR$/Elementary Sorts/src/Shell.java" />
+    <entry file="file://$PROJECT_DIR$/Stacks and Queues/src/fixedCapacityStackOfStrings.java" />
+    <entry file="file://$PROJECT_DIR$/Merge Sort/src/Merge.java" />
+    <entry file="file://$PROJECT_DIR$/Quick Sort/src/Quick.java" />
+    <entry file="file://$PROJECT_DIR$/Priority Queues/src/UnorderedArrayMaxPQ.java" />
+    <entry file="file://$PROJECT_DIR$/Priority Queues/src/OrderedArrayMaxPQ.java" />
+    <entry file="file://$PROJECT_DIR$/Priority Queues/src/MaxPQ.java" />
+    <entry file="file://$PROJECT_DIR$/Priority Queues/src/MinPQ.java" />
+    <entry file="file://$PROJECT_DIR$/Priority Queues/src/Heap.java" />
     <entry file="file://$PROJECT_DIR$/Binary Search Trees/src/Node.java" />
-    <entry file="file://$PROJECT_DIR$/Binary Search Trees/src/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Banlanced Search Trees/src/RedBlackBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4488">
-          <caret line="473" column="15" selection-start-line="473" selection-start-column="15" selection-end-line="473" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hash Tables/src/PhoneNumber.java">
+    <entry file="file://$PROJECT_DIR$/Binary Search Trees/src/BST.java" />
+    <entry file="file://$PROJECT_DIR$/Banlanced Search Trees/src/RedBlackBST.java" />
+    <entry file="file://$PROJECT_DIR$/Hash Tables/src/PhoneNumber.java" />
+    <entry file="file://$PROJECT_DIR$/Hash Tables/src/SeparateChainingHashST.java" />
+    <entry file="file://$PROJECT_DIR$/Hash Tables/src/LinearProbingHashST.java" />
+    <entry file="file://$PROJECT_DIR$/Data Structures/src/Staack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Structures/src/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <element signature="e#2083#2084#0" expanded="true" />
-            <element signature="e#2135#2136#0" expanded="true" />
-            <element signature="e#2817#2830#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hash Tables/src/SeparateChainingHashST.java">
+    <entry file="file://$PROJECT_DIR$/Data Structures/src/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="437">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding>
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#1045#1057#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#1427#1428#0" expanded="true" />
-            <element signature="e#1608#1609#0" expanded="true" />
-            <element signature="e#1632#1633#0" expanded="true" />
-            <element signature="e#1836#1837#0" expanded="true" />
-            <element signature="e#1870#1871#0" expanded="true" />
-            <element signature="e#4872#4889#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hash Tables/src/LinearProbingHashST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#1172#1173#0" expanded="true" />
-            <element signature="e#1206#1207#0" expanded="true" />
-            <element signature="e#1777#1778#0" expanded="true" />
-            <element signature="e#1833#1834#0" expanded="true" />
-            <element signature="e#2028#2040#0" expanded="true" />
-            <element signature="e#6497#6514#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -671,7 +409,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Banlanced Search Trees</last-edited>
+          <last-edited>Data Structures</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Analysis of Algorithms/Analysis of Algorithms.iml" filepath="$PROJECT_DIR$/Analysis of Algorithms/Analysis of Algorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Banlanced Search Trees/Banlanced Search Trees.iml" filepath="$PROJECT_DIR$/Banlanced Search Trees/Banlanced Search Trees.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Binary Search Trees/Binary Search Trees.iml" filepath="$PROJECT_DIR$/Binary Search Trees/Binary Search Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Data Structures.iml" filepath="$PROJECT_DIR$/Data Structures/Data Structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Data Structures and Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data Structures and Algorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Elementary Sorts/Elementary Sorts.iml" filepath="$PROJECT_DIR$/Elementary Sorts/Elementary Sorts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hash Tables/Hash Tables.iml" filepath="$PROJECT_DIR$/Hash Tables/Hash Tables.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Merge Sort/Merge Sort.iml" filepath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Priority Queues/Priority Queues.iml" filepath="$PROJECT_DIR$/Priority Queues/Priority Queues.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Quick Sort/Quick Sort.iml" filepath="$PROJECT_DIR$/Quick Sort/Quick Sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Stacks and Queues/Stacks and Queues.iml" filepath="$PROJECT_DIR$/Stacks and Queues/Stacks and Queues.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Union Find/Union Find.iml" filepath="$PROJECT_DIR$/Union Find/Union Find.iml" />
     </modules>
   </component>
 </project>
