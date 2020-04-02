@@ -1,10 +1,8 @@
-import java.util.List;
-
 public class SinglyLinkedList {
 
-    // private ListNode head;
+    private ListNode head;
 
-    private static class ListNode {
+    private class ListNode {
         private int data;
         private ListNode next;
 
@@ -14,7 +12,7 @@ public class SinglyLinkedList {
         }
     }
 
-    public ListNode insertAtBeginning(ListNode head, int data) {
+    public ListNode insertAtBeginning(int data) {
         ListNode newNode = new ListNode(data);
 
         if(head == null) return newNode;
@@ -24,7 +22,7 @@ public class SinglyLinkedList {
         return head; // this head will be new head, having new node at beginning.
     }
 
-    public ListNode insertAtEnd(ListNode head, int data) {
+    public ListNode insertAtEnd(int data) {
         ListNode newNode = new ListNode(data);
         ListNode current = head;
 
@@ -45,7 +43,7 @@ public class SinglyLinkedList {
         previous.next = newNode;
     }
 
-    public void display(ListNode head) {
+    public void display() {
         if(head == null) return;
 
         ListNode current = head;
@@ -55,10 +53,10 @@ public class SinglyLinkedList {
             System.out.println(current.data + " --> ");
             current = current.next;
         }
-        System.out.println(current); // should be null
+        System.out.println("null"); // should be null
     }
 
-    private int length(ListNode head) {
+    private int length() {
         if(head == null) return 0;
 
         int count = 0;
@@ -71,9 +69,9 @@ public class SinglyLinkedList {
         return count;
     }
 
-    public ListNode insertAtPosition(ListNode head, int data, int position) {
+    public ListNode insertAtPosition(int data, int position) {
         // boundary checks
-        int size = this.length(head);
+        int size = this.length();
         if(position < 1 || position > size + 1) {
             System.out.println("Invalid position");
             return head;
@@ -98,8 +96,8 @@ public class SinglyLinkedList {
         }
     }
 
-    public ListNode deleteFirst(ListNode head) {
-        if(head == null) return head;
+    public ListNode deleteFirst() {
+        if(head == null) return null;
 
         ListNode temp = head;
         head = head.next;
@@ -107,8 +105,8 @@ public class SinglyLinkedList {
         return temp;
     }
 
-    public ListNode deleteLast(ListNode head) {
-        if(head == null) return head;
+    public ListNode deleteLast() {
+        if(head == null) return null;
 
         ListNode last = head;
         ListNode previousToLast = null;
@@ -120,9 +118,9 @@ public class SinglyLinkedList {
         return last;
     }
 
-    public ListNode deleteAtPosition(ListNode head, int position) {
+    public ListNode deleteAtPosition(int position) {
         // boundary checks
-        int size = this.length(head);
+        int size = this.length();
         if(position < 1 || position > size + 1) {
             System.out.println("Invalid position");
             return head;
@@ -147,7 +145,7 @@ public class SinglyLinkedList {
         }
     }
 
-    public boolean find(ListNode head, int searchKey) {
+    public boolean find(int searchKey) {
         if(head == null) return false;
 
         ListNode current = head;
@@ -158,7 +156,7 @@ public class SinglyLinkedList {
         return false;
     }
 
-    public ListNode reverse(ListNode head) {
+    public ListNode reverse() {
         if(head == null) return head;
 
         ListNode current = head;
@@ -174,22 +172,70 @@ public class SinglyLinkedList {
         return previous;
     }
 
-    public static void main(String[] args) {
-        ListNode head = new ListNode(1);
-        ListNode second = new ListNode(2);
-        ListNode third = new ListNode(3);
-        ListNode fourth = new ListNode(4);
+    public ListNode getMiddleNode() {
+        if(head == null) return null;
 
-        head.next = second;
-        second.next = third;
-        third.next = fourth;
-
-        SinglyLinkedList SLL = new SinglyLinkedList();
-        SLL.display(head);
-
-        System.out.println();
-
-        SLL.insertAfter(second, 15);
-        SLL.display(head);
+        ListNode slowPointer = head;
+        ListNode fastPointer = head;
+        while(fastPointer!=null && fastPointer.next!=null) {
+            slowPointer = slowPointer.next;
+            fastPointer = fastPointer.next.next;
+        }
+        return slowPointer;
     }
+
+    public ListNode getNthNodeFromEnd(int n) {
+        if(head == null) return null;
+
+        if(n <= 0) throw new IllegalArgumentException("Invalid n value");
+
+        ListNode mainPointer = head;
+        ListNode refPointer = head;
+        int count = 0;
+
+        while(count < n) {
+            refPointer = refPointer.next;
+            count++;
+        }
+
+        while(refPointer != null) {
+            mainPointer = mainPointer.next;
+            refPointer = refPointer.next;
+        }
+
+        return mainPointer;
+    }
+
+    public void removeDuplicateFromSortedLinkedList() {
+        if(head == null) return;
+
+        ListNode current = head;
+        while(current != null && current.next != null) {
+            if(current.data == current.next.data) {
+                current.next = current.next.next;
+            } else {
+                current = current.next;
+            }
+        }
+    }
+
+    public ListNode insertNodeToSortedSinglyLinkedList(int data) {
+        ListNode newNode = new ListNode(data);
+
+        if(head == null) return null;
+
+        ListNode current = head;
+        ListNode temp = null;
+
+        while(current != null && current.data < newNode.data) {
+            temp = current;
+            current = current.next;
+        }
+        newNode.next = current;
+        temp.next = newNode;
+
+        return head;
+    }
+
+
 }
