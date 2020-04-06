@@ -1,3 +1,4 @@
+import javax.swing.plaf.synth.SynthUI;
 import java.util.Stack;
 
 public class BinaryTree {
@@ -28,6 +29,7 @@ public class BinaryTree {
         second.right = fifth;
     }
 
+    // 前序遍历 root --> left --> right
     public void preOrderRecursive(TreeNode root) {
         if(root == null) return;
 
@@ -50,10 +52,49 @@ public class BinaryTree {
         }
     }
 
+    // 中序遍历 left --> root --> right
+    public void inOrderRecursive(TreeNode root) {
+        if(root == null) return;
+
+        inOrderRecursive(root.left);
+        System.out.println(root.data + " ");
+        inOrderRecursive(root.right);
+    }
+
+    public void inOrderIterative() {
+        if(root == null) return;
+
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode temp = root;
+        while(!stack.isEmpty() || temp!=null) {
+            if(temp != null) {
+                stack.push(temp);
+                temp = temp.left;
+            } else {
+                temp = stack.pop();
+                System.out.println(temp.data + " ");
+                temp = temp.right;
+            }
+        }
+    }
+
+    // 后序遍历 left --> right --> root
+    public void postOrderRecursive(TreeNode root) {
+        if(root == null) return;
+
+        postOrderRecursive(root.left);
+        postOrderRecursive(root.right);
+        System.out.println(root.data + " ");
+    }
+
     public static void main(String[] args) {
         BinaryTree bt = new BinaryTree();
+
         bt.createBinaryTree();
+
         bt.preOrderRecursive(bt.root);
         bt.preOrderIterative();
+
+        bt.inOrderRecursive(bt.root);
     }
 }
