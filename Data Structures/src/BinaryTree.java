@@ -1,4 +1,8 @@
+import com.sun.source.tree.Tree;
+
+import java.util.ArrayList;
 import java.util.Stack;
+import java.util.List;
 
 public class BinaryTree {
 
@@ -84,6 +88,26 @@ public class BinaryTree {
         postOrderRecursive(root.left);
         postOrderRecursive(root.right);
         System.out.println(root.data + " ");
+    }
+
+    public List<Integer> postOrderIterative(TreeNode root) {
+        List<Integer> values = new ArrayList<Integer>();
+
+        if (root == null) return values;
+
+        Stack<TreeNode> stack = new Stack<TreeNode>();
+        stack.push(root);
+        while (!stack.isEmpty()) {
+            TreeNode current = stack.pop();
+            values.add(0, current.data);
+            if (current.left != null) {
+                stack.push(current.left);
+            }
+            if (current.right != null) {
+                stack.push(current.right);
+            }
+        }
+        return values;
     }
 
     public static void main(String[] args) {
