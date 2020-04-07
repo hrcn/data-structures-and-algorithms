@@ -1,4 +1,3 @@
-import javax.swing.plaf.synth.SynthUI;
 import java.util.Stack;
 
 public class BinaryTree {
