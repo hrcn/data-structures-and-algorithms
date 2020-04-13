@@ -1,5 +1,3 @@
-import com.sun.source.tree.Tree;
-
 import java.util.ArrayList;
 import java.util.Stack;
 import java.util.List;
@@ -108,16 +106,5 @@ public class BinaryTree {
             }
         }
         return values;
-    }
-
-    public static void main(String[] args) {
-        BinaryTree bt = new BinaryTree();
-
-        bt.createBinaryTree();
-
-        bt.preOrderRecursive(bt.root);
-        bt.preOrderIterative();
-
-        bt.inOrderRecursive(bt.root);
     }
 }
