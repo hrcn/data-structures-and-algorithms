@@ -97,4 +97,21 @@ public class DoublyLinkedList {
         length--;
         return temp;
     }
+
+    public ListNode deleteLast() {
+        if (isEmpty()) {
+            throw new NoSuchElementException();
+        }
+
+        ListNode temp = tail;
+        if (head == tail) {
+            head = null;
+        } else {
+            tail.previous.next = null;
+        }
+        tail = tail.previous;
+        temp.previous = null;
+        length--;
+        return temp;
+    }
 }
