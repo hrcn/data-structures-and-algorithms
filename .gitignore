@@ -1,6 +1,7 @@
 ### IntelliJ ###
 .idea/
 *.iml
+out/
 
 ### Java ###
 # Compiled class file
